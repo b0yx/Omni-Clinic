@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ===============================
 # Frappe & ERPNext Specific
 # ===============================
@@ -16,3 +17,12 @@ patches.txt.bak
 omni_clinic/public/dist/
 omni_clinic/public/js/*.min.js
 omni_clinic/public/css/*.min.css
+=======
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+node_modules
+__pycache__
+>>>>>>> 1685a3e (feat: Initialize App)
